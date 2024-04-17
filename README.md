@@ -7,3 +7,4 @@
 - Vue 3.x
 - Vite 5.x
 - Antv/X6 2.x
+- Vant
