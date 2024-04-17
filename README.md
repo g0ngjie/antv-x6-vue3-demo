@@ -8,6 +8,9 @@
 - Vite 5.x
 - Antv/X6 2.x
 
-<video width="1861" height="983" controls>
-    <source src="./demo.webm" type="video/webm">
+<video controls width="500">
+    <source src="./demo.mp4" type="video/mp4">
 </video>
+
+<video controls src="./demo.mp4" width="500"></video>
+<video controls src="./mobile.mp4" width="500"></video>
